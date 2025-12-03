@@ -60,9 +60,8 @@ Mi lema:
 
 ## 📈 Estadísticas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juliolopezdlt&show_icons=true&theme=tokyonight" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliolopezdlt&show_icons=true&theme=tokyonight)
+
 
 ---
 
